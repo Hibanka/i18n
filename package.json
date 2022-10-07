@@ -1,6 +1,6 @@
 {
   "name": "@hibanka/i18n",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Node.js library for typesafe localization",
   "repository": "https://github.com/Hibanka/i18n",
   "main": "dist/index.js",
@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "pluralize": "^8.0.0"
-  }, 
+  },
   "devDependencies": {
     "@hibanka/eslint-config": "^3.5.0",
     "@hibanka/prettier-config": "^3.5.0",
